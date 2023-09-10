@@ -17,3 +17,4 @@ ZCZC W01 60 L64 Helping a friend (OS related problem)
 ZCZC W01 240 L70 Studying for other courses.
 ZCZC W01 60 L73 Gaming including Board Games.
 ZCZC W01 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W01 30 L21 Trying something
