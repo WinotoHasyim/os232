@@ -1,6 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode + Description List
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 180 L73 Gaming including Board Games.
 ZCZC W00 15 L01 SCELE/Discord related
 ZCZC W00 20 L02 CLASSROOM/ZOOM meetings related
@@ -10,3 +10,10 @@ ZCZC W00 10 L41 TXT/mylog.txt related.
 ZCZC W00 10 L10 Assignment #00
 ZCZC W00 300 L70 Studying for other courses
 ZCZC W00 300 L98 Else that is not related with this Operating Systems class.
+ZCZC W01 120 L05 Quiz related including studying
+ZCZC W01 300 L11 Assignment #01
+ZCZC W01 60 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 60 L64 Helping a friend (OS related problem)
+ZCZC W01 240 L70 Studying for other courses.
+ZCZC W01 60 L73 Gaming including Board Games.
+ZCZC W01 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
