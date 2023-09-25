@@ -24,5 +24,15 @@ Recommended for those who want to study for the upcoming quiz.
 Structured playlist of Youtube videos about OS.
 You can watch this if you are lazy to read the slides.
 
+## Week 03
+
+* [Cheatsheet for GNU nano](https://www.nano-editor.org/dist/latest/cheatsheet.html) --- 
+Some keystrokes for commands in GNU Nano.
+Refer to this link if you forgot what keystroke to use and their function.
+
+* [C Tutorial](https://www.w3schools.com/c/index.php) --- 
+Website to learn C language.
+You will be guided with simple and easy-to-follow tutorials.
+
 <br>
 <hr>
