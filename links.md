@@ -32,7 +32,7 @@ Refer to this link if you forgot what keystroke to use and their function.
 
 * [C Tutorial](https://www.w3schools.com/c/index.php) --- 
 Website to learn C language.
-You will be guided with simple and easy-to-follow tutorials.
+You will be guided with simple and easy-to-follow tutorials along the way.
 
 <br>
 <hr>
