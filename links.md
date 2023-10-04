@@ -34,5 +34,19 @@ Refer to this link if you forgot what keystroke to use and their function.
 Website to learn C language.
 You will be guided with simple and easy-to-follow tutorials along the way.
 
+## Week 04
+
+* [ChatGPT](https://chat.openai.com/) ---
+AI Chatbot.
+Ask this bot if you don't know what you're doing.
+
+* [SCP Remote to Local](https://linuxhint.com/scp-remote-to-local/) ---
+This link provides explanation on how to fetch files and directories from a remote host to our local device.
+Use this link if you don't know the way.
+
+* [Operating Systems: Crash Course Computer Science](https://www.youtube.com/watch?v=26QPDBe-NB8) ---
+Youtube video about Operating system.
+This video explains things about Operating System in just 13 minutes.
+
 <br>
 <hr>
