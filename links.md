@@ -48,5 +48,19 @@ Use this link if you don't know the way.
 Youtube video about Operating system.
 This video explains things about Operating System in just 13 minutes.
 
+## Week 05
+
+* [How to Use SCP from Windows to Linux](https://linuxhint.com/scp-windows-linux/) ---
+Website about SCP uses.
+This link specifically show us how to use scp from Windows to Linux.
+
+* [What Is the Wget Command and How to Use It](https://www.hostinger.com/tutorials/wget-command-examples/) ---
+This guide teaches you how to use wget command on Linux.
+It gives 12 examples of wget commands in action to help you use them.
+
+* [tar command in Linux with examples](https://www.geeksforgeeks.org/tar-command-linux-examples/) ---
+tar command in Linux is one of the important commands which provides archiving functionality in Linux.
+This link provides information on how to use that Linux tar command.
+
 <br>
 <hr>
