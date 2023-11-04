@@ -62,5 +62,19 @@ It gives 12 examples of wget commands in action to help you use them.
 tar command in Linux is one of the important commands which provides archiving functionality in Linux.
 This link provides information on how to use that Linux tar command.
 
+## Week 06
+
+* [Shared Memory Systems](https://www.youtube.com/watch?v=uHtzOFwgD74) ---
+A Youtube video about Shared Memory Systems.
+Explains in detail what are Shared Memory Systems and also its features.
+
+* [fork() in linux](https://www.youtube.com/watch?v=CaWgJIbwb-4) ---
+This Youtube video will explain to you what exactly is a fork function.
+In addition to that, it also explains how the fork function work in linux.
+
+* [How to Back Up and Restore Your GPG Keys on Linux](https://www.howtogeek.com/816878/how-to-back-up-and-restore-gpg-keys-on-linux/) ---
+A guide on how to back up your GPG keys on Linux.
+Really gives you a wider insights on what you are about to do/have done on OS PopQuiz. 
+
 <br>
 <hr>
