@@ -76,5 +76,19 @@ In addition to that, it also explains how the fork function work in linux.
 A guide on how to back up your GPG keys on Linux.
 Really gives you a wider insights on what you are about to do/have done on OS PopQuiz. 
 
+## Week 07
+
+* [Customizing Interface on PowerShell](https://www.youtube.com/watch?v=-G6GbXGo4wo) ---
+Youtube Video that explains how you can personalize your powershell.
+After following through this video, you should have a better-looking powershell.
+
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) ---
+An article about Process Synchronization.
+Gives you a simple explanation on that given topic.
+
+* [Peterson’s Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/?ref=lbp) ---
+Another GeeksForGeeks Article that is related to Process Synchronization.
+This topic requires the understanding of Synchronization and Critical Section.
+
 <br>
 <hr>
