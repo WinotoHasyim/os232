@@ -7,7 +7,7 @@ ZCZC W07 20 L04 GitHub Pages related
 ZCZC W07 60 L05 Quiz related including studying
 ZCZC W07 20 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W07 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
-ZCZC W07 300 L17 Assignment #07
+ZCZC W07 310 L17 Assignment #07
 ZCZC W07 20 L21 Trying something
 ZCZC W07 15 L22 Linux CLI including tar, etc.
 ZCZC W07 5 L23 Bash, Regex, SED, AWK.
