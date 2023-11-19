@@ -90,5 +90,19 @@ Gives you a simple explanation on that given topic.
 Another GeeksForGeeks Article that is related to Process Synchronization.
 This topic requires the understanding of Synchronization and Critical Section.
 
+## Week 08
+
+* [The Linux From Scratch version 12.0 Book](https://www.linuxfromscratch.org/lfs/view/12.0/) ---
+A book about creating linux from scratch.
+Userful for OS assignments starting from Week 08.
+
+* [Kernotex’s YouTube LFS 12.0 PlayList](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+A playlist that helps you create linux from scratch.
+It's basically a video version of the book I provided above.
+
+* [Text Compare](https://text-compare.com/) ---
+Website for checking the differences between two text.
+Useful for checking if your output is nearly the same (if not the same) with the output in the OS website.
+
 <br>
 <hr>
