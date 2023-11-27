@@ -104,5 +104,19 @@ It's basically a video version of the book I provided above.
 Website for checking the differences between two text.
 Useful for checking if your output is nearly the same (if not the same) with the output in the OS website.
 
+## Week 09
+
+* [chroot](https://wiki.archlinux.org/title/chroot#:~:text=A%20chroot%20is%20an%20operation,is%20called%20a%20chroot%20jail.) ---
+Website that explains what is chroot.
+Very useful if you want to know more about chroot.
+
+* [How to Create Linux Symlinks](https://www.linode.com/docs/guides/linux-symlinks/) ---
+A guide on how to create linux symlinks.
+It may help you do your POPQUIZ.
+
+* [du Command in Linux/Unix with Examples](https://www.javatpoint.com/linux-du#:~:text=Command%20du%20stands%20for%20Disk,along%20with%20their%20respective%20sizes.) ---
+Explains what is the du Command in Linux.
+This website also provide examples on how to use the du command.
+
 <br>
 <hr>
